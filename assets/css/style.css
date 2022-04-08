@@ -41,23 +41,50 @@ h3 {
 }
 .blue {
     background-color: blue;
-    color: white;
+    height: 9rem;
+    font-size: 3rem;
+    font-weight: bold;
+    width: 22rem;
+    text-align: end;
 }
 .coral {
     background-color: lightcoral;
-    color: white;
+    height: 9rem;
+    font-size: 3rem;
+    font-weight: bold;
+    width: 22rem;
+    text-align: end;
 }
 .gray {
     background: rgb(255,226,0);
     background: linear-gradient(90deg, rgba(255,226,0,1) 50%, rgba(113,113,113,1) 50%);
     color: white;
-    
+    height: 9rem;
+    font-size: 3rem;
+    font-weight: bold;
+    width: 22rem;
+    text-align: end;
 }
 .peri {
     background-color: purple;
     color: white;
+    height: 9rem;
+    font-size: 3rem;
+    width: 22rem;
+    font-weight: bold;
 }
 .violet {
     background-color: plum;
+    height: 9rem;
     color: white;
+    width: 22rem;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.date {
+    position: absolute;
+    color: white;
+    margin-left: 15rem;
+    margin-top: 5rem;
+    font-size: 3rem;
 }
